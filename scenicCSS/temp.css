@@ -1,0 +1,93 @@
+*{
+    margin:0;
+    padding: 0;
+  }
+  .coffee{
+    width: 20rem;
+    height: 20rem;
+    padding:5rem;
+    border-radius: 6rem;
+  }
+  .body{
+    margin: 0;
+  }
+  .a{
+    height:15rem;
+    background-color: antiquewhite;
+    position:relative;
+  }
+  .feagle{
+    position:absolute;
+    left:45%;
+    font-size: 3rem;
+  }
+  .b{
+    background-color:beige;
+  }
+  .b_1{
+    display:inline-block;
+    position:relative;
+  }
+  .b_2{
+    display:inline-block;
+    position:relative;
+  }
+  .b_3{
+    display:inline-block;
+    position:relative;
+  }
+  .restaurant{
+    position: absolute;
+    font-size: 1.3rem;
+    bottom:3.6rem;
+    left:8rem;
+  }
+  .add{
+    position: absolute;
+    bottom:5.8rem;
+    display:inline-block;
+    width:7rem;
+    left:18rem;
+    color: aliceblue;
+  }
+  .button{
+    width: 2rem;
+  }
+  .rating{
+    position:absolute;
+    left:20rem;
+    bottom:3.6rem;
+    font-size: 1rem;
+    background-color: aquamarine;
+    border-radius: 1rem;
+    display:inline-block;
+    width:2.5rem;
+  }
+  .delivery_time{
+    position:absolute;
+    left:20rem;
+    bottom:2rem;
+    font-size: 1rem;
+    background-color:rgb(154, 200, 116);
+    display:inline-block;
+    width:3.2rem;
+  }
+  .price{
+    position:absolute;
+    left:8rem;
+    bottom:2rem;
+  }
+  .c{
+    background-color: bisque;
+  }
+  .d{
+    background-color: azure;
+  }
+  .e{
+    background-color:rgb(206, 217, 182);
+  }
+  .aboutus{
+    height:35rem;
+    background-color: blanchedalmond;
+    text-align: center;
+  }
